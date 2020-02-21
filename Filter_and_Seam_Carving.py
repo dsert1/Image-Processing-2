@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-
+#@author: Deniz Sert
+#@version: 2/14/20
 import math
 
 from PIL import Image
